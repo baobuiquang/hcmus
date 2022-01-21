@@ -1,2 +1,1 @@
-# hcmus
- 
+# HCMUS Projects and Labs Archive

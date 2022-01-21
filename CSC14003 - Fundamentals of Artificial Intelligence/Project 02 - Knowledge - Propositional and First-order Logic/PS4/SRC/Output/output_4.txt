@@ -1,0 +1,24 @@
+5
+-N OR R
+L OR T
+-N OR -T
+R
+N OR R
+7
+L OR R
+-N OR L OR M
+-T OR M OR R
+R OR T
+L OR R
+-N OR L
+-T OR R
+6
+-N OR M OR R
+L OR M OR T
+M OR N OR R
+L OR M OR R
+M OR R
+1
+M OR R OR T
+0
+NO

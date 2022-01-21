@@ -1,0 +1,9 @@
+Chỉ cần mở file "project_1_notebook.ipynb" trong
+môi trường Jupyter Notebook và chạy thôi ạ.
+5 file mê cung txt cũng sẽ được tự động tạo cho
+nên cũng không cần phải copy từ thư mục kiểm thử.
+Em có export ra 1 bản PDF (kèm output khi chạy
+thành công).
+Nếu muốn đổi mê cung để test thì chỉ cần thay tên
+file "maze_1.txt" ở block cuối cùng thành "maze_2.txt"
+cho đến "maze_5.txt" là được ạ.

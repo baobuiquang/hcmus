@@ -1,0 +1,22 @@
+====================== Apriori Processing =========================
+> Read file successfully
+> Turn data into proper format successfully
+> Processing: L[1] to L[2]: L -> C's items | C's items -> C | C -> L
+> Processing: L[2] to L[3]: L -> C's items | C's items -> C | C -> L
+============================ Result ===============================
+Itemset -> Support Count
+[33] -> 15167
+[39] -> 15596
+[40] -> 50675
+[42] -> 14945
+[49] -> 42135
+[39, 40] -> 10345
+[40, 42] -> 11414
+[40, 49] -> 29142
+===================================================================
+All Association Rules with confidence >= 0.5:
+Confidence([39] => [40]) = 0.66
+Confidence([42] => [40]) = 0.76
+Confidence([40] => [49]) = 0.58
+Confidence([49] => [40]) = 0.69
+===================================================================

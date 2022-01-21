@@ -1,0 +1,10 @@
+#include "syscall.h"
+
+int main()
+{
+	char c;
+ 	c = ReadChar();
+	PrintChar(c);
+	printf("\n");
+	Halt();
+}
